@@ -1,0 +1,3 @@
+https://copilotstudio.microsoft.com/environments/Default-264c851f-a4e7-43cf-86bc-d7b10dca8578/bots/e0a70489-64bb-f011-bbd3-6045bd3a3080/overview
+
+Criei um agente chamado "Chuchu", como um parte de um projeto da faculdade de criar um agente que fosse capaz de ajudar pessoas com receitas saudáveis. Usei os tópicos e a melhora de conversa, como mostrados no curso, para melhorá-lo. 
